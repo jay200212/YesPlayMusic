@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:match*",
+      "destination": "http://api.jay9.me//:match*"
+    }
+  ]
+}
